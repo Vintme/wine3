@@ -22,7 +22,6 @@ const Home = () => {
   return (
     <div>
       <Nav />
-      
           <Hero />
           <ComoFunciona />
           <Cosecha />
