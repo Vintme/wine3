@@ -29,6 +29,8 @@ const Home = () => {
           <Elefante />
           <Equipo />
           <Contacto />
+
+          
     </div>
   );
 };
