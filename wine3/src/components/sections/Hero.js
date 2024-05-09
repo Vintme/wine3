@@ -21,6 +21,12 @@ const Hero = () => {
           <div className="flex flex-col h-full md:h-fit md:mt-[1%]">
             <p className="text-[48px] font-black md:text-[64px]">Vintme</p>
             <p className="text-[16px] font-extralight -mt-[0.8%] md:text-[24px]">
+            <img
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/20e3aa5412d43c102ac2d24db2ba7c0587238dad7cb9bb882a1fa0df16fa926c?apiKey=3d6c53ba5d484a2cb38c48b0b1fe4ccc&"
+        alt="Descriptive alternative text of the image"
+        className="img"
+        loading="lazy"
+      />
               UNDER CONSTRUCTION
             </p>
             <button className="bg-black hover:bg-darkGrey py-[10px] px-[2.5%] rounded-[14px] w-fit mt-auto md:mt-[5%] text-white text-[16px] font-semibold md:text-[24px] transition duration-150">
