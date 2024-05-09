@@ -21,7 +21,7 @@ const Hero = () => {
           <div className="flex flex-col h-full md:h-fit md:mt-[1%]">
             <p className="text-[48px] font-black md:text-[64px]">Vintme</p>
             <p className="text-[16px] font-extralight -mt-[0.8%] md:text-[24px]">
-              El vino, el sol y el futuro
+              UNDER CONSTRUCTION
             </p>
             <button className="bg-black hover:bg-darkGrey py-[10px] px-[2.5%] rounded-[14px] w-fit mt-auto md:mt-[5%] text-white text-[16px] font-semibold md:text-[24px] transition duration-150">
               Compra en Open Sea
