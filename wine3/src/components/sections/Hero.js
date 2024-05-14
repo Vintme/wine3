@@ -7,7 +7,7 @@ function Home() {
         .img {
           aspect-ratio: 2.38;
           object-fit: cover;
-          width: 100%;
+          width: 200%;
         }
       `}</style>
 
